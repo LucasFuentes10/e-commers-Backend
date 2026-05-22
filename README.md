@@ -121,7 +121,11 @@ Ejemplo:
 
 ```json
 {
+  "email": "user@gmail.com",
+  "password": "1234"
   "email": "lucas@gmail.com",
+  "password": "1234"
+  "email": "admin@gmail.com",
   "password": "1234"
 }
 ```
